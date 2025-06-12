@@ -1,4 +1,4 @@
-# 🚴‍♀️ Bike Rental Demand Prediction using Machine Learning
+# 🚴‍♀️ AI-Powered system for predicting Urban Bike Rental Demand
 
 ## 📌 Problem Statement
 The goal of this project is to predict the number of bike rentals based on various environmental and seasonal factors like temperature, humidity, hour, season, and weather. This helps rental companies plan and manage resources efficiently.
@@ -40,9 +40,7 @@ The goal of this project is to predict the number of bike rentals based on vario
 ---
 
 ## 🚀 Deployment
-The entire project is deployed on **GitHub** for easy access, sharing, and evaluation. It includes the dataset, Jupyter Notebook, and complete analysis.
-
-👉 [Click here to view the repository](#)
+The entire project is deployed on **GitHub** for easy access, sharing, and evaluation. It includes the dataset, Jupyter Notebook, and complete analys
 
 ---
 
